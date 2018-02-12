@@ -1,6 +1,7 @@
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
-url: http://blog.nswebfrog.com
+url: https://zhulb.github.io
+app: /webfrogs.github.com
 author: nswebfrog
 highlighter: rouge
 exclude: ["Rakefile", "CNAME", "README.md"]
