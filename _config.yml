@@ -10,3 +10,5 @@ paginate: 15
 
 # Gems
 gems: [jekyll-paginate]
+
+theme: jekyll-theme-merlot
